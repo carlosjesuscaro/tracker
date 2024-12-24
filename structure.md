@@ -41,5 +41,5 @@
       * PyClosure
     * LeetCode
       * DataStructures
-  * VirtualBox
-    * NixOS
+* VirtualBox
+  * NixOS
