@@ -16,24 +16,24 @@
         * PartOne
         * PartTwo
   * Others
-    * Linux
+    * [Linux](https://github.com/carlosjesuscaro/linux_installs)
 * Samples
   * Databases
-* Tracker
+* [Tracker](https://github.com/carlosjesuscaro/tracker)
 * Training
   * Analysis
-    * Flights
+    * [Flights](https://github.com/carlosjesuscaro/data_analysis_flights)
     * Hypothesis
     * ML
-    * NobelPrize
-    * WorldBank
+    * [NobelPrize](https://github.com/carlosjesuscaro/data_analysis_nobelprize)
+    * [WorldBank](https://github.com/carlosjesuscaro/data_analysis_world)
   * DeepLearning
     * Coursera
   * ML
     * CarInsurance
       * spacy
   * Software
-    * Base
+    * [Base](https://github.com/carlosjesuscaro/software_python_base)
     * CodeAcademy
     * Cpp
     * Experiments
