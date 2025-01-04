@@ -13,8 +13,9 @@
   * DSTI
     * DataEng
       * DataPipelines
-        * PartOne
+        * [PartOne](https://github.com/carlosjesuscaro/masters_de_pipelines_xml)
         * PartTwo
+          * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
   * Others
     * [Linux](https://github.com/carlosjesuscaro/linux_installs)
 * Samples
@@ -29,18 +30,21 @@
     * [WorldBank](https://github.com/carlosjesuscaro/data_analysis_world)
   * DeepLearning
     * Coursera
+      * [IntroTensor](https://github.com/carlosjesuscaro/training_dl_coursera)
   * ML
     * CarInsurance
       * spacy
   * Software
     * [Base](https://github.com/carlosjesuscaro/software_python_base)
     * CodeAcademy
+      * ComputerScience
+        * [BasicPythonDataStructuresAndObjects](https://github.com/carlosjesuscaro/software_codeacademy_cspath_basic_python)
     * Cpp
     * Experiments
-      * PassAssignments
-      * PyClosure
+      * [PassAssignments](https://github.com/carlosjesuscaro/training_pass_assignment)
+      * [PyClosure](https://github.com/carlosjesuscaro/training_pyclosure)
     * LeetCode
-      * DataStructures
+      * [DataStructures](https://github.com/carlosjesuscaro/training_lc_datastructs)
 * VirtualBox
   * NixOS
 * [Vagrant](https://github.com/carlosjesuscaro/vagrant)
