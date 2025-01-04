@@ -7,9 +7,6 @@
 # Folder Structure
 
 * Projects
-  * Databases
-    * MySQL
-    * SQLServer
   * DSTI
     * DataEng
       * DataPipelines
@@ -18,8 +15,6 @@
           * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
   * Others
     * [Linux](https://github.com/carlosjesuscaro/linux_installs)
-* Samples
-  * Databases
 * [Tracker](https://github.com/carlosjesuscaro/tracker)
 * Training
   * Analysis
@@ -45,6 +40,8 @@
       * [PyClosure](https://github.com/carlosjesuscaro/training_pyclosure)
     * LeetCode
       * [DataStructures](https://github.com/carlosjesuscaro/training_lc_datastructs)
+    * [Databases](https://github.com/carlosjesuscaro/training_databases/tree/master)
+      * Samples
 * VirtualBox
   * NixOS
 * [Vagrant](https://github.com/carlosjesuscaro/vagrant)
