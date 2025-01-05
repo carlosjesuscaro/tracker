@@ -38,6 +38,8 @@
       * ComputerScience
         * [BasicPythonDataStructuresAndObjects](https://github.com/carlosjesuscaro/software_codeacademy_cspath_basic_python)
     * Cpp
+      * LinkedIn
+        * [LearningCpp](https://github.com/carlosjesuscaro/training_learning_cpp)
     * Databases
       * [Samples](https://github.com/carlosjesuscaro/training_dbs_samples)
     * Docker
