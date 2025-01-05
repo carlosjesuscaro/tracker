@@ -18,17 +18,20 @@
 * [Tracker](https://github.com/carlosjesuscaro/tracker)
 * Training
   * Analysis
+    * [AirbnbMarketTrends](https://github.com/carlosjesuscaro/data_analysis_airbnb_market_trends)
+    * [DataPrep](https://github.com/carlosjesuscaro/data_analysis_data_prep)
     * [Flights](https://github.com/carlosjesuscaro/data_analysis_flights)
-    * Hypothesis
-    * ML
+    * [LACrime](https://github.com/carlosjesuscaro/data_analysis_la_crime)
     * [NobelPrize](https://github.com/carlosjesuscaro/data_analysis_nobelprize)
     * [WorldBank](https://github.com/carlosjesuscaro/data_analysis_world)
   * DeepLearning
     * Coursera
       * [IntroTensor](https://github.com/carlosjesuscaro/training_dl_coursera)
   * ML
-    * CarInsurance
-      * spacy
+    * [CarInsurance](https://github.com/carlosjesuscaro/data_analysis_car_insurance)
+    * [Crops](https://github.com/carlosjesuscaro/data_analysis_crops)
+    * [Fifa](https://github.com/carlosjesuscaro/data_analysis_fifa)
+    * [Spacy](https://github.com/carlosjesuscaro/data_analysis_spacy)
   * Software
     * [Base](https://github.com/carlosjesuscaro/software_python_base)
     * CodeAcademy
