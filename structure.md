@@ -42,6 +42,7 @@
       * [PyClosure](https://github.com/carlosjesuscaro/training_pyclosure)
     * LeetCode
       * [DataStructures](https://github.com/carlosjesuscaro/training_lc_datastructs)
+    * [Shell](https://github.com/carlosjesuscaro/training_shell)
 * VirtualBox
   * NixOS
 * [Vagrant](https://github.com/carlosjesuscaro/vagrant)
