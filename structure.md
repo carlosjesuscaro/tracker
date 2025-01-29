@@ -39,6 +39,7 @@
     * Docker
       * [Basic](https://github.com/carlosjesuscaro/training_docker_basic)
       * [UbuntuBase](https://github.com/carlosjesuscaro/training_docker_ubase)
+      * [Volumes](https://github.com/carlosjesuscaro/training_docker_volumes)
     * Experiments
       * [PassAssignments](https://github.com/carlosjesuscaro/training_pass_assignment)
       * [PyClosure](https://github.com/carlosjesuscaro/training_pyclosure)
