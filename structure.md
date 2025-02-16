@@ -35,6 +35,7 @@
       * LinkedIn
         * [LearningCpp](https://github.com/carlosjesuscaro/training_learning_cpp)
     * Databases
+      * [AdvancedSQL](https://github.com/carlosjesuscaro/training_dbs_advanced_sql)
       * [Samples](https://github.com/carlosjesuscaro/training_dbs_samples)
     * Docker
       * [Basic](https://github.com/carlosjesuscaro/training_docker_basic)
