@@ -8,7 +8,8 @@
         * PartTwo
           * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
     * DataScience
-      * [ASML](https://github.com/carlosjesuscaro/masters_asaml)
+      * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
+      * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
   * Others
     * [Linux](https://github.com/carlosjesuscaro/linux_installs)
 * [Tracker](https://github.com/carlosjesuscaro/tracker)
