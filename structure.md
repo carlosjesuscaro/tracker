@@ -27,6 +27,7 @@
   * ML
     * [CarInsurance](https://github.com/carlosjesuscaro/data_analysis_car_insurance)
     * [Crops](https://github.com/carlosjesuscaro/data_analysis_crops)
+    * [DrugSafety](git remote add origin https://github.com/carlosjesuscaro/training_drug_safety.git)
     * [Fifa](https://github.com/carlosjesuscaro/data_analysis_fifa)
     * [Spacy](https://github.com/carlosjesuscaro/data_analysis_spacy)
   * Software
