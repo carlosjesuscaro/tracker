@@ -53,6 +53,8 @@
       * [PyClosure](https://github.com/carlosjesuscaro/training_pyclosure)
     * LeetCode
       * [DataStructures](https://github.com/carlosjesuscaro/training_lc_datastructs)
+    * Nix
+      * [FlakeDev](https://github.com/carlosjesuscaro/training_nix_flake_dev)
     * [Shell](https://github.com/carlosjesuscaro/training_shell)
 * VirtualBox
   * NixOS
