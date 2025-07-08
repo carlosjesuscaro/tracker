@@ -1,4 +1,4 @@
-# Folder Structure
+x`# Folder Structure
 
 * Projects
   * DSTI
@@ -8,6 +8,8 @@
         * PartTwo
           * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_project)
           * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
+        * PartTwoNew
+          * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
     * DataScience
       * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
       * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
