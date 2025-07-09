@@ -2,7 +2,7 @@ x`# Folder Structure
 
 * Projects
   * DSTI
-    * DataEng
+    * DataEngineering
       * DataPipelines
         * [PartOne](https://github.com/carlosjesuscaro/masters_de_pipelines_xml)
         * PartTwo
