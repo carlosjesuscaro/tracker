@@ -44,6 +44,7 @@ x`# Folder Structure
     * Databases
       * [AdvancedSQL](https://github.com/carlosjesuscaro/training_dbs_advanced_sql)
       * [Samples](https://github.com/carlosjesuscaro/training_dbs_samples)
+    [DesignPatterns](https://github.com/carlosjesuscaro/training_design_patterns)
     * Docker
       * [Basic](https://github.com/carlosjesuscaro/training_docker_basic)
       * [UbuntuBase](https://github.com/carlosjesuscaro/training_docker_ubase)
