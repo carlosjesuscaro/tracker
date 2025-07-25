@@ -8,6 +8,7 @@ x`# Folder Structure
         * PartTwo
           * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_project)
           * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
+          * [Terraform](https://github.com/carlosjesuscaro/masters_de_pipelines_terraform)
         * PartTwoNew
           * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
     * DataScience
