@@ -11,6 +11,7 @@ x`# Folder Structure
           * [Terraform](https://github.com/carlosjesuscaro/masters_de_pipelines_terraform)
         * PartTwoNew
           * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
+          * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_new_project)
     * DataScience
       * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
       * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
