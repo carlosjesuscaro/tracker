@@ -1,23 +1,22 @@
 x`# Folder Structure
 
-* Projects
-  * DSTI
-    * DataEngineering
-      * DataPipelines
-        * [PartOne](https://github.com/carlosjesuscaro/masters_de_pipelines_xml)
-        * PartTwo
-          * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_project)
-          * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
-          * [Terraform](https://github.com/carlosjesuscaro/masters_de_pipelines_terraform)
-        * PartTwoNew
-          * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
-          * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_new_project)
-    * DataScience
-      * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
-      * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
-  * Others
-    * [Linux](https://github.com/carlosjesuscaro/linux_installs)
-* [Tracker](https://github.com/carlosjesuscaro/tracker)
+* DSTI
+  * DataEngineering
+    * DataPipelines
+      * [PartOne](https://github.com/carlosjesuscaro/masters_de_pipelines_xml)
+      * PartTwo
+        * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_project)
+        * [Spark](https://github.com/carlosjesuscaro/masters_de_pipelines_spark)
+        * [Terraform](https://github.com/carlosjesuscaro/masters_de_pipelines_terraform)
+      * PartTwoNew
+        * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
+        * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_new_project)
+  * DataScience
+    * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
+    * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
+* Setup
+  * [Linux](https://github.com/carlosjesuscaro/linux_installs)
+  * [Tracker](https://github.com/carlosjesuscaro/tracker)
 * Training
   * Analysis
     * [AirbnbMarketTrends](https://github.com/carlosjesuscaro/data_analysis_airbnb_market_trends)
