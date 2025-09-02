@@ -11,11 +11,14 @@ x`# Folder Structure
       * PartTwoNew
         * [CodePatterns](https://github.com/carlosjesuscaro/masters_de_pipelines_code_patterns)
         * [Project](https://github.com/carlosjesuscaro/masters_de_pipelines_new_project)
-      * CyberSecurity
-        * [Shell](https://github.com/carlosjesuscaro/masters_de_cybersecurity_shells.git)
+    * CyberSecurity
+      * [Shell](https://github.com/carlosjesuscaro/masters_de_cybersecurity_shells.git)
   * DataScience
     * [ASAML](https://github.com/carlosjesuscaro/masters_asaml)
     * [TimeSeries](https://github.com/carlosjesuscaro/masters_time_series)
+  * [DataProcessingR](https://github.com/carlosjesuscaro/masters_de_dataprocessingr.git)
+    * Class
+    * FinalProject
 * Setup
   * [Linux](https://github.com/carlosjesuscaro/linux_installs)
   * [Tracker](https://github.com/carlosjesuscaro/tracker)
