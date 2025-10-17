@@ -50,6 +50,7 @@ x`# Folder Structure
         * [LearningCpp](https://github.com/carlosjesuscaro/training_learning_cpp)
     * Databases
       * [AdvancedSQL](https://github.com/carlosjesuscaro/training_dbs_advanced_sql)
+      * [Olympics](https://github.com/carlosjesuscaro/training_dbs_olympics/tree/master)
       * [Samples](https://github.com/carlosjesuscaro/training_dbs_samples)
       * [WindowFunctions](https://github.com/carlosjesuscaro/training_dbs_window_functions)
     * [DesignPatterns](https://github.com/carlosjesuscaro/training_design_patterns)
