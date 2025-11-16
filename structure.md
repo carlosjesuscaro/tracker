@@ -34,6 +34,8 @@ x`# Folder Structure
   * DeepLearning
     * Coursera
       * [IntroTensor](https://github.com/carlosjesuscaro/training_dl_coursera)
+  * Linux
+    * [CronJobs](git@github.com:carlosjesuscaro/training_linux_cronjobs.git)
   * ML
     * [CarInsurance](https://github.com/carlosjesuscaro/data_analysis_car_insurance)
     * [Crops](https://github.com/carlosjesuscaro/data_analysis_crops)
