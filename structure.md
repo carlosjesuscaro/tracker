@@ -36,6 +36,7 @@ x`# Folder Structure
       * [IntroTensor](https://github.com/carlosjesuscaro/training_dl_coursera)
   * Linux
     * [CronJobs](git@github.com:carlosjesuscaro/training_linux_cronjobs.git)
+    * [Shell](https://github.com/carlosjesuscaro/training_shell)
   * ML
     * [CarInsurance](https://github.com/carlosjesuscaro/data_analysis_car_insurance)
     * [Crops](https://github.com/carlosjesuscaro/data_analysis_crops)
@@ -71,7 +72,6 @@ x`# Folder Structure
       * [DataStructures](https://github.com/carlosjesuscaro/training_lc_datastructs)
     * Nix
       * [FlakeDev](https://github.com/carlosjesuscaro/training_nix_flake_dev)
-    * [Shell](https://github.com/carlosjesuscaro/training_shell)
 * VirtualBox
   * NixOS
 * [Vagrant](https://github.com/carlosjesuscaro/vagrant)
