@@ -35,13 +35,14 @@ x`# Folder Structure
     * Coursera
       * [IntroTensor](https://github.com/carlosjesuscaro/training_dl_coursera)
   * Linux
-    * [CronJobs](git@github.com:carlosjesuscaro/training_linux_cronjobs.git)
+    * [CronJobs](https://github.com/carlosjesuscaro/training_linux_cronjobs)
     * [Shell](https://github.com/carlosjesuscaro/training_shell)
   * ML
     * [CarInsurance](https://github.com/carlosjesuscaro/data_analysis_car_insurance)
     * [Crops](https://github.com/carlosjesuscaro/data_analysis_crops)
     * [DrugSafety](https://github.com/carlosjesuscaro/training_drug_safety.git)
     * [Fifa](https://github.com/carlosjesuscaro/data_analysis_fifa)
+    * [MallCxs](https://github.com/carlosjesuscaro/data_analysis_mall_cx)
     * [Spacy](https://github.com/carlosjesuscaro/data_analysis_spacy)
   * Software
     * [Ansible](https://github.com/carlosjesuscaro/ansible)
