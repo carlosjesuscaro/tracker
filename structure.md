@@ -26,6 +26,7 @@ x`# Folder Structure
 * Training
   * Analysis
     * [AirbnbMarketTrends](https://github.com/carlosjesuscaro/data_analysis_airbnb_market_trends)
+    * [ContentSummary](https://github.com/carlosjesuscaro/data_analysis_summary)
     * [DataPrep](https://github.com/carlosjesuscaro/data_analysis_data_prep)
     * [Flights](https://github.com/carlosjesuscaro/data_analysis_flights)
     * [LACrime](https://github.com/carlosjesuscaro/data_analysis_la_crime)
