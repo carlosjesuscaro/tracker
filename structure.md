@@ -24,6 +24,8 @@ x`# Folder Structure
   * [Linux](https://github.com/carlosjesuscaro/linux_installs)
   * [Tracker](https://github.com/carlosjesuscaro/tracker)
 * Training
+  * AI
+    * [HuggingFace](https://github.com/carlosjesuscaro/ai_huggingface)
   * Analysis
     * [AirbnbMarketTrends](https://github.com/carlosjesuscaro/data_analysis_airbnb_market_trends)
     * [ContentSummary](https://github.com/carlosjesuscaro/data_analysis_summary)
